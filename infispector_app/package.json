@@ -7,6 +7,7 @@
   "standards": "HTML5, CSS3",
   "framework": "Express, Angular",
   "dependencies": {
+    "facetjs-druid-requester": "^1.0.0",
     "express": "3.0.0",
     "ejs": ">= 0.8.3",
     "mongoose": ">= 3.6.1",
@@ -17,7 +18,7 @@
     "passport": ">= 0.1.6",
     "passport-local": ">= 0.1.6",
     "nodemailer": ">= 0.4.1",
-    "nodemon": "1.3.7"
+    "nodemon": "1.3.7"      
   },
   "devDependencies": {
     "grunt": "~0.4.2",
